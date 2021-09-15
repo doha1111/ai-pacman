@@ -7,6 +7,7 @@
 # Student side autograding was added by Brad Miller, Nick Hay, and Pieter 
 # Abbeel in Spring 2013.
 # For more info, see http://inst.eecs.berkeley.edu/~cs188/pacman/pacman.html
+# Edited in by Richard Han
 
 import util
 from game import Agent
